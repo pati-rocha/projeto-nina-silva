@@ -162,6 +162,9 @@
     .img-header {
         padding-top: 80px;        
     }
+    .figcaption-header {
+        font-size: .6rem;
+    }
     .titulo-img {   
         margin: 30% 0 0 15%;
         font-size: 1.5rem;  
@@ -322,7 +325,8 @@
         padding: 1rem;       
     }
     .figcaption-header {
-        font-size: .5rem;
+        font-size: .3rem;
+        margin: -20px 5px 0 0;
     }
     .figcaption {
         font-size: .6rem;
