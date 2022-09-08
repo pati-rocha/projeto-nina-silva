@@ -127,7 +127,6 @@
 .footer {
     width: 100%;
     background-color: rgb(209, 36, 36);
-    /* background-color: #035317; */
     border-top: 1px solid #30f37b6e;
 }
 .icon-redes {
@@ -170,7 +169,7 @@
         padding: 1.2rem;
     }
     .main {
-        width: 80%;
+        width: 90%;
     }
     .section-historia {
         flex-direction: column-reverse;
