@@ -242,6 +242,9 @@
         position: relative;
         margin: 5px 0;        
     }
+    .main {
+        width: 100%;
+    }
     .subtitulo-sobre {
         font-size: .8rem;
     }
@@ -315,8 +318,6 @@
     }
     .main {
         width: 100%;
-        margin: auto;
-        background-color: beige;
     }
     .subtitulo-sobre {
         font-size: .8rem;
