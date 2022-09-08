@@ -74,7 +74,6 @@
 .main {
     width: 80%;
     margin: auto;
-    /* padding-top: 0px; */
     background-color: beige;
 }
 .subtitulo-sobre {
@@ -313,6 +312,11 @@
         font-size: .6rem;
         position: relative;
         margin: 5px 0;        
+    }
+    .main {
+        width: 100%;
+        margin: auto;
+        background-color: beige;
     }
     .subtitulo-sobre {
         font-size: .8rem;
